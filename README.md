@@ -67,8 +67,8 @@ To set up the project locally, follow the steps below:
 
 #### Prerequisites
 
-- Node.js v14.x or later
-- Hyperledger Indy SDK
+- Node.js v16.x or later
+- Hyperledger Indy
 
 #### 1. Clone the repository
 
